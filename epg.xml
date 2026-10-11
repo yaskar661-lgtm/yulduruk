@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261010230433 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261011024022 ">
   <channel id="UCc282c_TN8xIba_Z6GaDnQw">
     <display-name>Telewizja Republika</display-name>
     <icon src="logos/UCc282c_TN8xIba_Z6GaDnQw.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCc282c_TN8xIba_Z6GaDnQw">
-    <title>RELACJA NA ŻYWO - OGLĄDAJ Telewizja Republika 2026-10-10 23:02</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCc282c_TN8xIba_Z6GaDnQw">
+    <title>RELACJA NA ŻYWO - OGLĄDAJ Telewizja Republika 2026-10-11 02:38</title>
     <desc>Live YouTube stream from Telewizja Republika</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>БЕЛСАТ NEWS</display-name>
     <icon src="logos/UCRokSp8CGOuQO4R0F1RxRGg.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCRokSp8CGOuQO4R0F1RxRGg">
-    <title>БЕЛСАТ. ЖЫВЫ ЭФІР 2026-10-10 23:02</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCRokSp8CGOuQO4R0F1RxRGg">
+    <title>БЕЛСАТ. ЖЫВЫ ЭФІР 2026-10-11 02:38</title>
     <desc>Live YouTube stream from БЕЛСАТ NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>Arcadia TV live</display-name>
     <icon src="logos/UC8HQ8fxMluwbQLeK5O10Ujg.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UC8HQ8fxMluwbQLeK5O10Ujg">
-    <title>ArcadiaTV World (Österreich - Deutsch) 2026-10-10 23:02</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UC8HQ8fxMluwbQLeK5O10Ujg">
+    <title>ArcadiaTV World (Österreich - Deutsch) 2026-10-11 02:38</title>
     <desc>Live YouTube stream from Arcadia TV live</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>A State Of Trance</display-name>
     <icon src="logos/UCalCDSmZAYD73tqVZ4l8yJg.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCalCDSmZAYD73tqVZ4l8yJg">
-    <title>A State of Trance 24/7 2026-10-10 23:02</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCalCDSmZAYD73tqVZ4l8yJg">
+    <title>A State of Trance 24/7 2026-10-11 02:38</title>
     <desc>Live YouTube stream from A State Of Trance</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>LIVE NOW</display-name>
     <icon src="logos/UC4K_LI-Tn3-LshNgG0-YypQ.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UC4K_LI-Tn3-LshNgG0-YypQ">
-    <title>【正在直播：CCTV中文国际（美洲）】全球新闻热点、时事点评、深度报道、纪录片、电视剧等 | LIVE NOW 2026-10-10 23:02</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UC4K_LI-Tn3-LshNgG0-YypQ">
+    <title>【正在直播：CCTV中文国际（美洲）】全球新闻热点、时事点评、深度报道、纪录片、电视剧等 | LIVE NOW 2026-10-11 02:38</title>
     <desc>Live YouTube stream from LIVE NOW</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>IB3</display-name>
     <icon src="logos/UCff_CBVJDTHP4wOHPjP5BMg.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCff_CBVJDTHP4wOHPjP5BMg">
-    <title>Emissió en directe d'IB3 TELEVISIÓ 2026-10-10 23:02</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCff_CBVJDTHP4wOHPjP5BMg">
+    <title>Emissió en directe d'IB3 TELEVISIÓ 2026-10-11 02:38</title>
     <desc>Live YouTube stream from IB3</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>CanalRedLive</display-name>
     <icon src="logos/UCky112obBMG68Nw5MrSNNPA.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCky112obBMG68Nw5MrSNNPA">
-    <title>Directo 24h de Canal Red 2026-10-10 23:03</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCky112obBMG68Nw5MrSNNPA">
+    <title>Directo 24h de Canal Red 2026-10-11 02:38</title>
     <desc>Live YouTube stream from CanalRedLive</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>WELT</display-name>
     <icon src="logos/UCZMsvbAhhRblVGXmEXW8TSA.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCZMsvbAhhRblVGXmEXW8TSA">
-    <title>PUTINS KRIEG: US-Hammer! &quot;Das ist ein schwarzer Tag für die Welt!&quot; Ex-Oberst schlägt Alarm! I STREAM 2026-10-10 23:03</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCZMsvbAhhRblVGXmEXW8TSA">
+    <title>PUTINS KRIEG: US-Hammer! &quot;Das ist ein schwarzer Tag für die Welt!&quot; Ex-Oberst schlägt Alarm! I STREAM 2026-10-11 02:38</title>
     <desc>Live YouTube stream from WELT</desc>
     <category>Live</category>
   </programme>
@@ -76,17 +76,26 @@
     <display-name>Телеканал 11</display-name>
     <icon src="logos/UCVEaAWKfv7fE1c-ZuBs7TKQ.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCVEaAWKfv7fE1c-ZuBs7TKQ">
-    <title>Телеканал 1+1 онлайн. Спільний телемарафон #UAразом 2026-10-10 23:03</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCVEaAWKfv7fE1c-ZuBs7TKQ">
+    <title>Телеканал 1+1 онлайн. Спільний телемарафон #UAразом 2026-10-11 02:39</title>
     <desc>Live YouTube stream from Телеканал 11</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCG26bSkEjJc7SqGsxoHNnbA">
+    <display-name>Факти ICTV</display-name>
+    <icon src="logos/UCG26bSkEjJc7SqGsxoHNnbA.jpg"/>
+  </channel>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCG26bSkEjJc7SqGsxoHNnbA">
+    <title>🛑  Телемарафон Єдині новини: онлайн / Телемарафон live / Факти ICTV онлайн / Вторгнення РФ в Україну 2026-10-11 02:39</title>
+    <desc>Live YouTube stream from Факти ICTV</desc>
     <category>Live</category>
   </programme>
   <channel id="UCTQrUTmzCWIfG6h4EVCdOCQ">
     <display-name>TelevisionCanaria</display-name>
     <icon src="logos/UCTQrUTmzCWIfG6h4EVCdOCQ.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCTQrUTmzCWIfG6h4EVCdOCQ">
-    <title>TELEVISIÓN CANARIA  🔴EN DIRECTO🔴 2026-10-10 23:03</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCTQrUTmzCWIfG6h4EVCdOCQ">
+    <title>TELEVISIÓN CANARIA  🔴EN DIRECTO🔴 2026-10-11 02:39</title>
     <desc>Live YouTube stream from TelevisionCanaria</desc>
     <category>Live</category>
   </programme>
@@ -94,8 +103,8 @@
     <display-name>RTVE Noticias</display-name>
     <icon src="logos/UC7QZIf0dta-XPXsp9Hv4dTw.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UC7QZIf0dta-XPXsp9Hv4dTw">
-    <title>🔴DIRECTO | CANAL 24H | TODA LA ACTUALIDAD NACIONAL E INTERNACIONAL | RTVE Noticias 2026-10-10 23:03</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UC7QZIf0dta-XPXsp9Hv4dTw">
+    <title>🔴DIRECTO | CANAL 24H | TODA LA ACTUALIDAD NACIONAL E INTERNACIONAL | RTVE Noticias 2026-10-11 02:39</title>
     <desc>Live YouTube stream from RTVE Noticias</desc>
     <category>Live</category>
   </programme>
@@ -103,8 +112,8 @@
     <display-name>Channels Television</display-name>
     <icon src="logos/UCEXGDNclvmg6RW0vipJYsTQ.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCEXGDNclvmg6RW0vipJYsTQ">
-    <title>CHANNELS TELEVISION | LIVE 2026-10-10 23:03</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCEXGDNclvmg6RW0vipJYsTQ">
+    <title>CHANNELS TELEVISION | LIVE 2026-10-11 02:39</title>
     <desc>Live YouTube stream from Channels Television</desc>
     <category>Live</category>
   </programme>
@@ -112,8 +121,8 @@
     <display-name>Telewizja Republika</display-name>
     <icon src="logos/UCc282c_TN8xIba_Z6GaDnQw.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCc282c_TN8xIba_Z6GaDnQw">
-    <title>RELACJA NA ŻYWO - OGLĄDAJ Telewizja Republika 2026-10-10 23:03</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCc282c_TN8xIba_Z6GaDnQw">
+    <title>RELACJA NA ŻYWO - OGLĄDAJ Telewizja Republika 2026-10-11 02:39</title>
     <desc>Live YouTube stream from Telewizja Republika</desc>
     <category>Live</category>
   </programme>
@@ -121,8 +130,8 @@
     <display-name>Times Now</display-name>
     <icon src="logos/UC6RJ7-PaXg6TIH2BzZfTV7w.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UC6RJ7-PaXg6TIH2BzZfTV7w">
-    <title>Trump LIVE: Trump Drops Nuke Tonight on Iran | Major Global Update | US News | Breaking News LIVE 2026-10-10 23:04</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UC6RJ7-PaXg6TIH2BzZfTV7w">
+    <title>TRUMP LIVE: Trump Says “The War Is Completely Over” | Breaking News &amp; Latest Update | WORLD NEWS 2026-10-11 02:39</title>
     <desc>Live YouTube stream from Times Now</desc>
     <category>Live</category>
   </programme>
@@ -130,8 +139,8 @@
     <display-name>earthTV</display-name>
     <icon src="logos/UCRuyAVeVd7oUwh0LWmxxBBQ.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCRuyAVeVd7oUwh0LWmxxBBQ">
-    <title>The World Live - Original Version | earthTV® 2026-10-10 23:04</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCRuyAVeVd7oUwh0LWmxxBBQ">
+    <title>The World Live - Original Version | earthTV® 2026-10-11 02:39</title>
     <desc>Live YouTube stream from earthTV</desc>
     <category>Live</category>
   </programme>
@@ -139,8 +148,8 @@
     <display-name>LibertadDigital</display-name>
     <icon src="logos/UCUS73_bjTYwBFAfXbvIjM8Q.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCUS73_bjTYwBFAfXbvIjM8Q">
-    <title>EN DIRECTO: Libertad Digital Televisión 2026-10-10 23:04</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCUS73_bjTYwBFAfXbvIjM8Q">
+    <title>EN DIRECTO: Libertad Digital Televisión 2026-10-11 02:40</title>
     <desc>Live YouTube stream from LibertadDigital</desc>
     <category>Live</category>
   </programme>
@@ -148,8 +157,8 @@
     <display-name>Caracol Televisión</display-name>
     <icon src="logos/UCcpE1fmG2qBZatj28bak2ng.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCcpE1fmG2qBZatj28bak2ng">
-    <title>Caracol Televisión EN VIVO 🔴 – Señal digital 2026-10-10 23:04</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCcpE1fmG2qBZatj28bak2ng">
+    <title>Caracol Televisión EN VIVO 🔴 – Señal digital 2026-10-11 02:40</title>
     <desc>Live YouTube stream from Caracol Televisión</desc>
     <category>Live</category>
   </programme>
@@ -157,8 +166,8 @@
     <display-name>Televisión Pública</display-name>
     <icon src="logos/UCs231K71Bnu5295_x0MB5Pg.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UCs231K71Bnu5295_x0MB5Pg">
-    <title>En Vivo: Inter Miami vs DC United - Leo Tour 2026-10-10 23:04</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UCs231K71Bnu5295_x0MB5Pg">
+    <title>EN VIVO | Televisión Pública 2026-10-11 02:40</title>
     <desc>Live YouTube stream from Televisión Pública</desc>
     <category>Live</category>
   </programme>
@@ -166,8 +175,8 @@
     <display-name>canalsur</display-name>
     <icon src="logos/UChtLgH7ZJLqLGWJpBnzy9Lg.jpg"/>
   </channel>
-  <programme start="20261010230433 +0000" stop="20261011000433 +0000" channel="UChtLgH7ZJLqLGWJpBnzy9Lg">
-    <title>Canal Sur Andalucía 2026-10-10 23:04</title>
+  <programme start="20261011024022 +0000" stop="20261011034022 +0000" channel="UChtLgH7ZJLqLGWJpBnzy9Lg">
+    <title>Canal Sur Andalucía 2026-10-11 02:40</title>
     <desc>Live YouTube stream from canalsur</desc>
     <category>Live</category>
   </programme>
