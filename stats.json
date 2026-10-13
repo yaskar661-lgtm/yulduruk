@@ -1,20 +1,20 @@
 {
-  "total": 20,
-  "live": 20,
+  "total": 21,
+  "live": 21,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 19,
+    "1080p": 20,
     "720p": 1,
     "480p": 0,
     "other": 0
   },
   "by_category": {
-    "General": 19,
+    "General": 20,
     "News": 1
   },
   "by_country": {
-    "UK": 19,
+    "UK": 20,
     "NG": 1
   },
   "individual_channels": [
@@ -51,6 +51,11 @@
     {
       "name": "CanalRedLive",
       "file": "channels/canalredlive.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "WELT",
+      "file": "channels/welt.m3u8",
       "quality": "1080p"
     },
     {
