@@ -1,127 +1,15 @@
 {
-  "total": 21,
-  "live": 21,
+  "total": 0,
+  "live": 0,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 20,
-    "720p": 1,
+    "1080p": 0,
+    "720p": 0,
     "480p": 0,
     "other": 0
   },
-  "by_category": {
-    "General": 20,
-    "News": 1
-  },
-  "by_country": {
-    "UK": 20,
-    "NG": 1
-  },
-  "individual_channels": [
-    {
-      "name": "Telewizja Republika",
-      "file": "channels/telewizja_republika.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "\u0411\u0415\u041b\u0421\u0410\u0422 NEWS",
-      "file": "channels/\u0431\u0435\u043b\u0441\u0430\u0442_news.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "Arcadia TV live",
-      "file": "channels/arcadia_tv_live.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "A State Of Trance",
-      "file": "channels/a_state_of_trance.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "LIVE NOW",
-      "file": "channels/live_now.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "IB3",
-      "file": "channels/ib3.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "CanalRedLive",
-      "file": "channels/canalredlive.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "WELT",
-      "file": "channels/welt.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b 11",
-      "file": "channels/\u0442\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b_11.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "\u0424\u0430\u043a\u0442\u0438 ICTV",
-      "file": "channels/\u0444\u0430\u043a\u0442\u0438_ictv.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "Telemadrid",
-      "file": "channels/telemadrid.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "TelevisionCanaria",
-      "file": "channels/televisioncanaria.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "RTVE Noticias",
-      "file": "channels/rtve_noticias.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "Channels Television",
-      "file": "channels/channels_television.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "Telewizja Republika",
-      "file": "channels/telewizja_republika.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "Times Now",
-      "file": "channels/times_now.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "earthTV",
-      "file": "channels/earthtv.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "LibertadDigital",
-      "file": "channels/libertaddigital.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "Caracol Televisi\u00f3n",
-      "file": "channels/caracol_televisi\u00f3n.m3u8",
-      "quality": "720p"
-    },
-    {
-      "name": "Televisi\u00f3n P\u00fablica",
-      "file": "channels/televisi\u00f3n_p\u00fablica.m3u8",
-      "quality": "1080p"
-    },
-    {
-      "name": "canalsur",
-      "file": "channels/canalsur.m3u8",
-      "quality": "1080p"
-    }
-  ]
+  "by_category": {},
+  "by_country": {},
+  "individual_channels": []
 }
