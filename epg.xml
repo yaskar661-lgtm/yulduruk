@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261019190153 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261019190523 ">
   <channel id="UCUVZ7T_kwkxDOGFcDlFI-hg">
     <display-name>atv</display-name>
     <icon src="logos/UCUVZ7T_kwkxDOGFcDlFI-hg.jpg"/>
   </channel>
-  <programme start="20261019190153 +0000" stop="20261019200153 +0000" channel="UCUVZ7T_kwkxDOGFcDlFI-hg">
-    <title>atv Canlı Yayın İzle 🔴 7/24 HD Kesintisiz (Yeni Bölümler ve Canlı Programlar) 2026-10-19 19:01</title>
+  <programme start="20261019190523 +0000" stop="20261019200523 +0000" channel="UCUVZ7T_kwkxDOGFcDlFI-hg">
+    <title>atv Canlı Yayın İzle 🔴 7/24 HD Kesintisiz (Yeni Bölümler ve Canlı Programlar) 2026-10-19 19:05</title>
     <desc>Live YouTube stream from atv</desc>
     <category>Live</category>
   </programme>
