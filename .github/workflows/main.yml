@@ -71,6 +71,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          # Disconnect Cloudflare WARP so GitHub push doesn't time out
+          echo "Disconnecting Cloudflare WARP..."
+          sudo wg-quick down /etc/wireguard/wgcf.conf || true
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -82,9 +86,11 @@ jobs:
           fi
 
           git commit -m "Update playlist - $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
-
-      - name: Cleanup sensitive files
-        if: always()
-        run: |
-          rm -f cookies.txt wgcf-profile.conf wgcf-account.toml 2>/dev/null || true
+          
+          # Add a simple retry loop for extra reliability against network blips
+          for i in {1..3}; do
+            git push && break || {
+              echo "Push failed, retrying in 5 seconds ($i/3)..."
+              sleep 5
+            }
+          done
