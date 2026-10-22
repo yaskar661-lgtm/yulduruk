@@ -31,7 +31,8 @@ jobs:
 
       - name: Setup Python & dependencies
         run: |
-          pip install --upgrade pip yt-dlp requests
+          pip install --upgrade pip yt-dlp requests playwright
+          playwright install chromium
           echo "yt-dlp: $(yt-dlp --version)"
 
       - name: Setup Cloudflare WARP
