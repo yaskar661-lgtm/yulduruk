@@ -49,16 +49,6 @@ jobs:
           sudo cp wgcf-profile.conf /etc/wireguard/wgcf.conf
           sudo wg-quick up /etc/wireguard/wgcf.conf || true
 
-      - name: Create cookies file
-        env:
-          COOKIES: ${{ secrets.COOKIES_TXT }}
-        run: |
-          if [ -z "$COOKIES" ]; then
-            echo "COOKIES_TXT secret missing"
-            exit 1
-          fi
-          echo "$COOKIES" > cookies.txt
-
       - name: Create directories
         run: |
           mkdir -p logos channels
@@ -67,7 +57,7 @@ jobs:
       - name: Run playlist generator
         run: |
           echo "Starting generation..."
-          python generate.py
+          sh exec_grabber.sh
           echo "Generation complete"
 
       - name: Commit and push changes
