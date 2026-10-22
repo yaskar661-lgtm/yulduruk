@@ -1,16 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Generated: 2026-10-22 13:22:02 UTC
+# Generated: 2026-10-22 14:37:29 UTC
 # Total channels: 1
-# Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/
-
-#EXTINF:-1 tvg-id="UCsFINj3y7SjBaeUxiSdRjlA" tvg-logo="logos/UCsFINj3y7SjBaeUxiSdRjlA.jpg" tvg-name="STAR TV" group-title="General",STAR TV [Mobile]
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792696922/ei/-Q3aaoXNPIST-coP28bggQI/ip/2a09:bac5:d2a6:2e28::499:21/id/82O6yOy_XwE.22/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr3---sn-vgqsrn6y.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/ss/1/ssa/1/bui/AWzQHwpmm5yCZoPX4VJ9q84ArCSp6uorqNhbZFICQ56PI3AYk3S5CNPTauEGPfVZc6MagMpy49OeID37/spc/mpRQ_wyNwr_z1R6a7jnzmlgFYJbiZc2p7cdHcC1CN4zHtbvr0S_h8dMasy2z_Zwc/vprv/1/reg/0/playlist_type/DVR/met/1792675322,/mh/DY/mm/44/mn/sn-vgqsrn6y/ms/lva/mv/u/mvi/3/pl/40/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565116/mt/1792673873/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhANRBvUPDi8q673Zb8MYShtr1Hb7J_97mkZTp-aB7CeUsAiAZXk2bAQZlvilU2u_bHoiGnLEw94ZThLGz1biODX7lXA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgROvVzdHtnoEPmcgBOtkmGPmn-gv4w30yQ00FCKIkiRUCIGJstIqkMtARGjEezP9v2j1CfQI4GCDwKr7G8HcEzB9W/playlist/index.m3u8
-
-
-# Summary: 1/1 streams active
-# Quality: 1x1080p, 0x720p, 0x480p
-# Categories: General:1
-# Countries: UK:1
-# Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/
-# Updated: 2026-10-22 13:22:02 UTC
