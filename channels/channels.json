@@ -1,15 +1,5 @@
 {
-  "generated": "2026-10-23T09:45:30.072409",
-  "count": 1,
-  "channels": [
-    {
-      "name": "STAR TV",
-      "file": "channels/star_tv.m3u8",
-      "id": "UCsFINj3y7SjBaeUxiSdRjlA",
-      "quality": "Auto [HLS Master]",
-      "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1792770329/ei/uSzbasfZKN7Dlu8P5sq9YA/ip/2a09%3Abac5%3A7491%3A2d2%3A%3A48%3A3a/id/82O6yOy_XwE.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AWzQHwpPPT3L3P7pzMm3ECqDd0ikqTW70RJLRb2I-EKt5-f1lgeQPz3R17DE6bdv0S3a4rGbI0rBFYo-/spc/mpRQ_yvtbbSqun7nMeQgXWh3rPzJ_dMn7HN0iRHga0RRgfm-W7iudZTwIV_HhVhB/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAKtuXjf-xdzOXGG0wZRDUycqwR7Y5CTfD2m4uqLi80kUAiEA2SxQpjoxWr3Q4urIE4-YiEfKjTwPMHnb1_mOmPpFbUM%3D/file/index.m3u8",
-      "country": "UK"
-    }
-  ]
+  "generated": "2026-10-23T14:41:11.694105",
+  "count": 0,
+  "channels": []
 }
