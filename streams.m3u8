@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Generated: 2026-10-27 23:28:50 UTC
-# Total channels: 1
-
-#EXTINF:-1 tvg-id="UCsFINj3y7SjBaeUxiSdRjlA" tvg-logo="logos/UCsFINj3y7SjBaeUxiSdRjlA.jpg" tvg-name="STAR TV" group-title="General",STAR TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1793165328/ei/sDPhas-fIoKLlu8Pp9-VuA4/ip/2a09:bac1:7680:8::2d4:87/id/82O6yOy_XwE.22/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-2onx5c-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/ss/1/ssa/1/bui/AWzQHwo6ZPZVvYb_b8sroAj0n556LxdbvNHGDvM9bBNSBubU5Jol8J-6pXz21YsS43Bx6SlM3383TFmj/spc/mpRQ_-9EP2ymzBesIGtw-JQC_CrIpUFTD2ve8u-br1n_vW1ZXb8-o42tR451/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3000750/met/1793143728,/mh/DY/mm/44/mn/sn-2onx5c-5x/ms/lva/mv/m/mvi/1/pl/52/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565116,52184237,52271469/mt/1793143488/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgJT-BwYIDvkUQCve6lURCMa-9xUMpi4XP12JjhIW20BcCIGbFP2CvQ493HJEg4uhWGEkdfBiLinccdFKfXXAVMQ3U/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALZGE1A-2PrKtlv_FIh7RUeSa97Oql1b7Adbpz8BvqE_AiEAvHLMULVRyO0u0RSbxRYnQQpoY-StjzxI1NnL4ZJzFJ4%3D/playlist/index.m3u8
+# Generated: 2026-10-28 03:56:34 UTC
+# Total channels: 0
