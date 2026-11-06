@@ -1,4 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Generated: 2026-11-05 17:51:44 UTC
-# Total channels: 0
+# Generated: 2026-11-06 00:44:25 UTC
+# Total channels: 1
+
+#EXTINF:-1 tvg-id="UCsFINj3y7SjBaeUxiSdRjlA" tvg-logo="logos/UCsFINj3y7SjBaeUxiSdRjlA.jpg" tvg-name="STAR TV" group-title="General",STAR TV [Auto HLS]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1793947464/ei/6CLtau22Kderlu8P64fFwAU/ip/2a09%3Abac5%3A7492%3A2d2%3A%3A48%3A91/id/82O6yOy_XwE.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AZFAFb-058ojFpQGjNdY0Qs7937wLrZ5eb2dLaTy3NAh5FUGDB_xTtudSfMyqvA70debPMf-ypVvAejC/spc/mpRQ_8B_yP5mvJKf0UsUAoXHvYY06uMsX-iuzEgZw47ICb-ehfD2l09ynuWb/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52271469/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAO7yEQ1lKizj-N69cU81EnOBdSUJCw8HNZ5gePMi5eqGAiEAjvLmI65ifBphF1EDp2v611cjIV35Yo7a4eH_fd_F_HY%3D/file/index.m3u8
