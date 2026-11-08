@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20261108192027 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20261108232550 ">
   <channel id="UCsFINj3y7SjBaeUxiSdRjlA">
     <display-name>STAR TV</display-name>
     <icon src="logos/UCsFINj3y7SjBaeUxiSdRjlA.jpg"/>
   </channel>
-  <programme start="20261108192027 +0000" stop="20261108202027 +0000" channel="UCsFINj3y7SjBaeUxiSdRjlA">
-    <title>Star TV - Canlı Yayın (Full HD) 2026-11-08 19:20</title>
+  <programme start="20261108232550 +0000" stop="20261109002550 +0000" channel="UCsFINj3y7SjBaeUxiSdRjlA">
+    <title>Star TV - Canlı Yayın (Full HD) 2026-11-08 23:25</title>
   </programme>
 </tv>

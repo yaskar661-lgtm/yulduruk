@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T19:20:27.071368",
+  "generated": "2026-11-08T23:25:50.854989",
   "count": 1,
   "channels": [
     {
@@ -8,7 +8,7 @@
       "id": "UCsFINj3y7SjBaeUxiSdRjlA",
       "quality": "Auto [HLS Master]",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794187226/ei/esvwapr_Kf_3sfIPuKLgiAU/ip/2a09%3Abac5%3A6213%3A1232%3A%3A1d0%3Ac5/id/82O6yOy_XwE.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AZFAFb_JCauoWMZ84W_tKk-RW7ip5bh1eaAgbrF-HyZiaE6hMRPJAd793AXZl8k8rikpdzK0i1zmZwoL/spc/mpRQ_6GkzyNJ8taDCQjMH7ocGr-J5DRtULcaCAfnSWNtFq_XaI4Xn4ofGGFY/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52338435/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAJyHI1Aqrn3slOPq4_i3v2VmHCRyF--4dit2D6p0xRFkAiEAx_V0BRAzkICQsYgnmz0YeJFSNwARmHkpoD601snsIFM%3D/file/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794201950/ei/_gTxatmtIJ-DkucPsqPryA4/ip/2a09%3Abac5%3A9f23%3A1791%3A%3A259%3A3e/id/82O6yOy_XwE.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AZFAFb8m3axCxx0wK1ODZ9UE5EeKPJLnO2VqsW0fojEiEn2eD8QrumCetk98MGslE8owFoFgcSAJG56J/spc/mpRQ_4up63X7oJl11i7cT0-Jhmkr5We9oiSMNACdtqFjs_GmtFxKuuOZckJ9/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIga3192doDQzq2HMnK1gzZm09ib8Yd4FC8bQO6jBQreqECIQCv4BApA19TV-zUfh37ZAbvdyNgJhgdkWkX6hFfUmm0-g%3D%3D/file/index.m3u8",
       "country": "UK"
     }
   ]
