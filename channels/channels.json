@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T00:25:10.940559",
+  "generated": "2026-11-11T12:26:04.556941",
   "count": 1,
   "channels": [
     {
@@ -8,7 +8,7 @@
       "id": "UCsFINj3y7SjBaeUxiSdRjlA",
       "quality": "Auto [HLS Master]",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794378310/ei/5rXzauujJ6eJkucP4KXL2QQ/ip/2a09%3Abac5%3A9f27%3A32a0%3A%3A50b%3A9f/id/82O6yOy_XwE.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AZFAFb9DLKhmJeeFw_uyEgASg3iUWEa7foRl_m_VWU_LSdbHp53iV3VV5Mp3m_SJleeL6e3dURy-ZbHU/spc/mpRQ_67k_L4C6GrlvpXhjhOyTtA2DW4Lqa_YKF23ljGeESO7sKzDn9p6eqU7/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgKaS9dqaIOd-MmirsrWlOJQ6zJh_cOGFOKzwTmUV2DTQCICwcPl8Z97hzzFsWqVqYrl5cQ18HFGVl1AagjVpRpQ7f/file/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794421564/ei/3F70apjPCpaYsfIPt5vr8Ao/ip/2a09%3Abac5%3A6214%3A1232%3A%3A1d0%3Ab4/id/82O6yOy_XwE.22/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AZFAFb9yQj5fdk7DnRVVrV-s_K6qQf9vv3nlWbrs1E_Pt8o1S9ggtt_Tw2pFTDAhWDKbjyKdrrN22D2a/spc/mpRQ_9nfOA2wCBPtDePwP6NstBW6nr7pL4MrD28GiLDltiGJYJsEABeX2ZEV/vprv/1/go/1/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52338434/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgBaju1Mqz5hni5APIB-spf1dke3UGLVjulRMT9KanYo8CIDOhjXlJOGVFNXMSkVqbS8sjIJEEw00douBQO5pGA4Pv/file/index.m3u8",
       "country": "UK"
     }
   ]
