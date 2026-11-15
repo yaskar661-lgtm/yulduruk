@@ -1,16 +1,12 @@
 {
-  "total": 1,
-  "live": 1,
+  "total": 0,
+  "live": 0,
   "offline": 0,
   "qualities": {
     "1080p": 0,
     "720p": 0,
     "480p": 0
   },
-  "by_category": {
-    "General": 1
-  },
-  "by_country": {
-    "UK": 1
-  }
+  "by_category": {},
+  "by_country": {}
 }
