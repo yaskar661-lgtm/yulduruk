@@ -196,15 +196,13 @@ def get_youtube_stream_url(youtube_url: str, quality: str) -> Optional[str]:
         "--user-agent", CHROME_UA,
         "--referer", "https://www.youtube.com/",
         "--geo-bypass",
-        "--socket-timeout", "30",
+        "--socket-timeout", "20",
         "-J",  # JSON Dump isteği
         *cookie_args,
     ]
 
     attempts = [
         ("deno/ejs/default", [*common, "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=default", youtube_url]),
-        ("deno/ejs/android", [*common, "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=android", youtube_url]),
-        ("deno/ejs/web", [*common, "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=web", youtube_url]),
         ("classic/default", [*common, "--extractor-args", "youtube:player_client=default", youtube_url]),
         ("classic/android", [*common, "--extractor-args", "youtube:player_client=android", youtube_url]),
     ]
@@ -212,7 +210,7 @@ def get_youtube_stream_url(youtube_url: str, quality: str) -> Optional[str]:
     for label, cmd in attempts:
         print(f"   ▶️ YouTube JSON deneme: {label}")
         try:
-            result = subprocess.run(cmd, capture_output=True, text=True, timeout=50)
+            result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
             if result.returncode == 0 and result.stdout.strip():
                 data = json.loads(result.stdout)
                 stream_url = _extract_stream_from_json(data)
@@ -224,6 +222,7 @@ def get_youtube_stream_url(youtube_url: str, quality: str) -> Optional[str]:
 
     print("   ❌ YouTube stream JSON üzerinden alınamadı")
     return None
+
 
 def get_stream_url(channel: Dict, quality: str) -> Optional[str]:
     channel_name = channel.get("name", "")
