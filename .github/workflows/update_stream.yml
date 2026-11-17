@@ -85,7 +85,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git add playlist/*.m3u playlist/*.m3u8 config.json update_stream.py requirements.txt .github/workflows/update-stream.yml
+          # Sadece var olan değişiklikleri ve klasörleri ekle
+          git add playlist/ config.json update_stream.py requirements.txt
 
           git diff --cached --quiet || git commit -m "🔄 Playlist M3U listelerini güncelle: $(date '+%Y-%m-%d %H:%M:%S')"
 
