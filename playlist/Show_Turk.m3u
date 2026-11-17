@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://www.showturk.com.tr/
+#EXTINF:-1,Show Türk
+https://ciner.daioncdn.net/showturk/showturk.m3u8?app=web
