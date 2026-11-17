@@ -41,8 +41,13 @@ jobs:
       - name: 🍪 Cookies'i hazırla
         run: |
           if [ -n "${{ secrets.YOUTUBE_COOKIES }}" ]; then
-            echo "${{ secrets.YOUTUBE_COOKIES }}" | base64 -d > cookies.txt
-            echo "✅ Cookies yüklendi"
+            # Try to decode base64, fallback safely if it fails
+            if echo "${{ secrets.YOUTUBE_COOKIES }}" | base64 -d > cookies.txt 2>/dev/null; then
+              echo "✅ Cookies başarıyla decode edildi ve yüklendi"
+            else
+              echo "⚠️ Uyarı: YOUTUBE_COOKIES base64 formatında değil, düz metin olarak kaydediliyor..."
+              echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
+            fi
           else
             touch cookies.txt
             echo "⚠️ YOUTUBE_COOKIES secret yok, boş cookies.txt ile devam ediliyor"
