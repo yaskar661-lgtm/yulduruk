@@ -201,10 +201,14 @@ def get_youtube_stream_url(youtube_url: str, quality: str) -> Optional[str]:
         *cookie_args,
     ]
 
+    # YouTube istemci öncelik sıralaması (Bot korumasını aşmak için çeşitlendirildi)
     attempts = [
         ("deno/ejs/default", [*common, "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=default", youtube_url]),
+        ("deno/ejs/android", [*common, "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=android", youtube_url]),
+        ("deno/ejs/web", [*common, "--js-runtimes", "deno", "--remote-components", "ejs:github", "--extractor-args", "youtube:player_client=web", youtube_url]),
         ("classic/default", [*common, "--extractor-args", "youtube:player_client=default", youtube_url]),
         ("classic/android", [*common, "--extractor-args", "youtube:player_client=android", youtube_url]),
+        ("classic/web", [*common, "--extractor-args", "youtube:player_client=web", youtube_url]),
     ]
 
     for label, cmd in attempts:
@@ -222,6 +226,7 @@ def get_youtube_stream_url(youtube_url: str, quality: str) -> Optional[str]:
 
     print("   ❌ YouTube stream JSON üzerinden alınamadı")
     return None
+
 
 
 def get_stream_url(channel: Dict, quality: str) -> Optional[str]:
